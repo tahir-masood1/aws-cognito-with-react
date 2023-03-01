@@ -1,3 +1,6 @@
+Challenges:
+I am trying to hands on AWS Cognito identity to use for authentication and authorization activities in react based applications here.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
